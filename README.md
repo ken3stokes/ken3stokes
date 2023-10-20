@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ken3stokes
-- 👀 I’m interested in ... Governance, Risk, and Compliance with the integration of Cloud, AI, and Blockchain
+- 👀 I’m interested in ... Governance, Risk, and Compliance with the integration of Cloud, AI, and Analytics
 - 🌱 I’m currently learning ...Application Development, Python, Blockchain, and Industry Standards around Cybersecurity and Regulatory Compliance
 - 💞️ I’m looking to collaborate on ... Blockchain, Cloud Computing, Artificial Intelligence and GRC
 - 📫 How to reach me ...github@kenestokes.me
