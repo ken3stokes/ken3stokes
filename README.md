@@ -1,10 +1,62 @@
-- 👋 Hi, I’m @ken3stokes
-- 👀 I’m interested in ... Governance, Risk, and Compliance with the integration of Cloud, AI, and Analytics
-- 🌱 I’m currently learning ...Python, Generative AI, Blockchain, and Industry Standards around Cybersecurity and Regulatory Compliance
-- 💞️ I’m looking to collaborate on ... Blockchain, Cloud Computing, Artificial Intelligence and GRC
-- 📫 How to reach me ...github@kenestokes.me
+# Hi, I'm Kenneth Stokes 👋
 
-<!---
-ken3stokes/ken3stokes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a seasoned technology professional with over a decade of experience in Governance, Risk, and Compliance (GRC), technology strategy, and emerging technologies. I'm passionate about solving complex problems at the intersection of technology, policy, and privacy.
+
+---
+
+## 🌟 **About Me**
+
+- 🎓 **Education**: Currently pursuing a Master of Public Policy (MPP) at the University of Illinois Chicago (UIC).
+- 📚 **Certifications**: Preparing for AI-900 (Microsoft Azure AI Fundamentals) and IBM Generative AI Engineering Specialization.
+- 💼 **Focus Areas**: GRC, AI Governance, tokenomics, and technology-driven compliance solutions.
+- 🔬 **Research Interests**: AI Governance, cryptocurrency regulation, and the ethical implications of emerging technologies.
+- 🌍 **Career Goals**: Bridging the gap between technology and policy, empowering decision-makers with actionable insights, and advancing privacy-first app development.
+
+---
+
+## 💻 **Current Projects**
+
+### 🛠️ **AskEmily**  
+A policy analyzer leveraging AI for governance and compliance insights. *(In Planning)*
+
+### 🎯 **SMART Goals App**  
+A privacy-focused, self-hosted task manager designed for professionals and organizations.
+
+### 🚀 **CLARA**  
+Preparing for production deployment with domain integration and strategic partnerships.
+
+### 💰 **Financial Planning App**  
+A privacy-centric budgeting tool to promote independent financial management. *(In Planning)*
+
+---
+
+## 🛠️ **Technical Skills**
+
+- **Programming Languages**: HTML, CSS, JavaScript (focus on simplicity and privacy-friendly technologies).
+- **Tools & Platforms**: GitHub Pages, IndexedDB, WCAG 2.1 compliance for accessible UI.
+- **Domains**: AI, GRC, privacy-centric app development, entrepreneurship.
+
+---
+
+## 📈 **Learning & Development**
+
+- 🌐 Building expertise in **technology GRC** and **data visualization** to better inform decision-makers.
+- 📜 Exploring **Series 65** licensing and private equity opportunities to broaden entrepreneurial endeavors.
+- 🤖 Advancing knowledge in **AI Governance** and **financial economics** to contribute to the evolving tech-policy landscape.
+
+---
+
+## 🌐 **Connect With Me**
+
+- 📝 [**Personal Website**](https://ken3stokes.github.io) *(Coming Soon!)*
+- 📧 **Email**: github@kenestokes.me
+
+---
+
+## 📊 **GitHub Stats**
+
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken3stokes&show_icons=true&theme=radical)
+
+---
+
+💡 *"Empowering decision-makers with technology solutions that prioritize trust, privacy, and innovation."*
