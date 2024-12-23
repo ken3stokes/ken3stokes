@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a seasoned technology professional with over a decade 
 ### 🛠️ **AskEmily**  
 A policy analyzer leveraging AI for governance and compliance insights. *(In Planning)*
 
-### 🎯 **SMART Goals App**  
+### 🎯 **Scofield - SMART Goals App**  
 A privacy-focused, self-hosted task manager designed for professionals and organizations.
 
 ### 🚀 **CLARA**  
