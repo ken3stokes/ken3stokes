@@ -1,4 +1,4 @@
-# Hi, I'm Kenneth Stokes 👋
+# Hi, I'm Ken E. Stokes 👋
 
 Welcome to my GitHub! I'm a seasoned technology professional with over a decade of experience in Governance, Risk, and Compliance (GRC), technology strategy, and emerging technologies. I'm passionate about solving complex problems at the intersection of technology, policy, and privacy.
 
@@ -25,7 +25,7 @@ A privacy-focused, self-hosted task manager designed for professionals and organ
 ### 🚀 **CLARA**  
 Preparing for production deployment with domain integration and strategic partnerships.
 
-### 💰 **Financial Planning App**  
+### 💰 **Eden**  
 A privacy-centric budgeting tool to promote independent financial management. *(In Planning)*
 
 ---
@@ -35,14 +35,6 @@ A privacy-centric budgeting tool to promote independent financial management. *(
 - **Programming Languages**: HTML, CSS, JavaScript (focus on simplicity and privacy-friendly technologies).
 - **Tools & Platforms**: GitHub Pages, IndexedDB, WCAG 2.1 compliance for accessible UI.
 - **Domains**: AI, GRC, privacy-centric app development, entrepreneurship.
-
----
-
-## 📈 **Learning & Development**
-
-- 🌐 Building expertise in **technology GRC** and **data visualization** to better inform decision-makers.
-- 📜 Exploring **Series 65** licensing and private equity opportunities to broaden entrepreneurial endeavors.
-- 🤖 Advancing knowledge in **AI Governance** and **financial economics** to contribute to the evolving tech-policy landscape.
 
 ---
 
